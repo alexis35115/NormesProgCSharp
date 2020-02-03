@@ -1,2 +1,3 @@
-# NormesProgCSharp
-Normes de programmation pour le code C#
+# Normes de programmation pour le code C\#
+
+Ajouter le fichier ".editorconfig" à la racine de votre solution .Net et inclure celui-ci à la solution.
